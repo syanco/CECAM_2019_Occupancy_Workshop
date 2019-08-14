@@ -1,3 +1,4 @@
 theme: jekyll-theme-slate
 title: CECAM 2019 Occupancy Modeling Workshop
 author: Allison Pierce, Scott Yanco, Michael Wunder
+baseurl: CECAM_2019_Occupancy_Workshop
