@@ -5,4 +5,6 @@ This page contains resources associated with the occupancy modeling workshop off
 
 # Additional Resources
 
+['Unmarked' R package documentation] (https://sites.google.com/site/unmarkedinfo/home) (also has links to additional resources including materials from workshops taught by authors)
+
 # Examples of Occupancy-based Papers
