@@ -8,4 +8,7 @@ This page contains resources associated with the occupancy modeling workshop off
 ['Unmarked' R package documentation](https://sites.google.com/site/unmarkedinfo/home)
 * also has links to additional resources including materials from workshops taught by authors
 
+[John P. Vanek's website](https://johnpvanek.weebly.com/occupancy-modeling-resources.html)
+* list of relavant occupancy papers, slides from lectures/workshops, and example code
+
 # Examples of Occupancy-based Papers
