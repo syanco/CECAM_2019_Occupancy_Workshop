@@ -3,6 +3,7 @@ This page contains resources associated with the occupancy modeling workshop off
 <a href="single_season_single_species_occu_lec_083019.pptx" download="single_season_single_species_occu_lec_083019.pptx">Single-species, single-season occupancy models</a>
 
 # Code
+[Single season model tutorial](SSOccupancyModel.md)
 
 # Additional Resources
 
