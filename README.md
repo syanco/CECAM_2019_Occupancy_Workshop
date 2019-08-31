@@ -31,6 +31,6 @@ This page contains resources associated with the occupancy modeling workshop off
 
 <a href="3072056.pdf" download="3072056.pdf">MacKenzie et al. 2002 - Orignial occupancy paper</a>
 
-<a href="3072056.pdf" download="3072056.pdf">MacKenzie et al. 2002 - Orignial occupancy paper</a>
+<a href="usgs_occu_factsheet.pdf" download="usgs_occu_factsheet.pdf">USGS Factsheet</a>
 
 # Examples of Occupancy-based Papers
