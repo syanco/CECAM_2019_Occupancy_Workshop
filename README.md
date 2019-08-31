@@ -2,8 +2,9 @@ This page contains resources associated with the occupancy modeling workshop off
 # Lecture Slides
 <a href="single_season_single_species_occu_lec_083019.pptx" download="single_season_single_species_occu_lec_083019.pptx">Single-species, single-season occupancy models</a>
 
+<a href="single_season_single_species_occu_lec_083019.pptx" download="single_season_single_species_occu_lec_083019.pptx">Single-species, single-season occupancy models</a>
+
 # Code
-[single-season models](https://syanco.github.io/CECAM_2019_Occupancy_Workshop/single_season_single_species_occu_lec_083019.pptx)
 
 # Additional Resources
 
