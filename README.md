@@ -9,7 +9,7 @@ This page contains resources associated with the occupancy modeling workshop off
 # Code
 <a href="SSOccupancyModel.Rmd" download="SSOccupancyModel.Rmd">Single-season code (markdown code)</a>
 
-[Single-season code walkthrough](SSOccupancyMOdel.Rmd)
+[Single-season code walkthrough](SSOccupancyMOdel.md)
 
 <a href="multi_season_codewalk.R" download="multi_season_codewalk.R">Multi-season code (R script)</a>
 
