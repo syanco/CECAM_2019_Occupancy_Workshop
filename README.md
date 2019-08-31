@@ -8,7 +8,9 @@ This page contains resources associated with the occupancy modeling workshop off
 
 # Code
 <a href="SSOccupancyMOdel.Rmd" download="SSOccupancyMOdel.Rmd">Single-season code (markdown code)</a>
+
 [Single-season code walkthrough](SSOccupancyMOdel.Rmd)
+
 # Additional Resources
 
 ['Unmarked' R package documentation](https://sites.google.com/site/unmarkedinfo/home)
