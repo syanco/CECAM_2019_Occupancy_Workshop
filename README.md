@@ -38,3 +38,5 @@ This page contains resources associated with the occupancy modeling workshop off
 
 # Examples of Occupancy-based Papers
 <a href="Jones_et_al-2018-Diversity_and_Distributions.pdf" download="Jones_et_al-2018-Diversity_and_Distributions.pdf">Declining old- forest species as a legacy of large trees lost</a>
+
+<a href="alverson_dinsmore_2014pdf.pdf" download="alverson_dinsmore_2014pdf.pdf">Factors affecting Burrowing Owl occupancy of prairie dog colonies</a>
