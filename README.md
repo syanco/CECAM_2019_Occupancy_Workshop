@@ -34,6 +34,7 @@ This page contains resources associated with the occupancy modeling workshop off
 <a href="3072056.pdf" download="3072056.pdf">MacKenzie et al. 2002 - Orignial occupancy paper</a>
 
 <a href="usgs_occu_factsheet.pdf" download="usgs_occu_factsheet.pdf">USGS Factsheet</a>
+[Burnham and Anderson. 2002. Multi-model inference book](https://pdfs.semanticscholar.org/3af6/34a96dfbc2ee7fc7e44b73cf4539e503b2de.pdf)
 
 # Examples of Occupancy-based Papers
 <a href="Jones_et_al-2018-Diversity_and_Distributions.pdf" download="Jones_et_al-2018-Diversity_and_Distributions.pdf">Declining old- forest species as a legacy of large trees lost</a>
