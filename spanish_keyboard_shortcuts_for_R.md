@@ -1,4 +1,4 @@
-This document shows some helpful keboard shortcuts for using R on a spanish language keyboard.
+**This document shows some helpful keboard shortcuts for using R on a spanish language keyboard.**
 
 Tilde (~) on a mac:
 Alt + Ñ
