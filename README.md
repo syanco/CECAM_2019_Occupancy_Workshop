@@ -9,7 +9,7 @@ This page contains resources associated with the occupancy modeling workshop off
 <a href="contact.pptx" download="contact.pptx">Contact slide</a>
 
 # Code
-[Helpful keyboard shortcuts for spanish language keyboard](spanish_keyboard_shortcuts_for_R)
+[Helpful keyboard shortcuts for spanish language keyboard](spanish_keyboard_shortcuts_for_R.md)
 
 <a href="SSOccupancyModel.Rmd" download="SSOccupancyModel.Rmd">Single-season tutorial (source code)</a>
 
