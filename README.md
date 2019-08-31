@@ -13,6 +13,10 @@ This page contains resources associated with the occupancy modeling workshop off
 [John P. Vanek's website](https://johnpvanek.weebly.com/occupancy-modeling-resources.html)
 * list of relavant occupancy papers, slides from lectures/workshops, and example code
 
+[MacKenzie et al. Book](https://www.elsevier.com/books/occupancy-estimation-and-modeling/mackenzie/978-0-12-407197-1)
+* *the* occupancy modeling book
+
 [Theresa Donovan's E-book of Exercises](http://www.uvm.edu/rsenr/vtcfwru/spreadsheets/?Page=occupancy/occupancy.htm)
+* has axercises that accompany the MacKenzie et al. book.
 
 # Examples of Occupancy-based Papers
