@@ -7,9 +7,11 @@ This page contains resources associated with the occupancy modeling workshop off
 <a href="contact.pptx" download="contact.pptx">Contact slide</a>
 
 # Code
-<a href="SSOccupancyMOdel.Rmd" download="SSOccupancyMOdel.Rmd">Single-season code (markdown code)</a>
+<a href="SSOccupancyModel.Rmd" download="SSOccupancyModel.Rmd">Single-season code (markdown code)</a>
 
 [Single-season code walkthrough](SSOccupancyMOdel.Rmd)
+
+<a href="multi_season_codewalk.R" download="multi_season_codewalk.R">Multi-season code (R script)</a>
 
 # Additional Resources
 
