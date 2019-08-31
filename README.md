@@ -29,5 +29,6 @@ This page contains resources associated with the occupancy modeling workshop off
 
 <a href="MacKenzie and Royle 2005.pdf" download="MacKenzie and Royle 2005.pdf">MacKenzie and Royal 2005 - Designing Occupancy Studies</a>
 
+<a href="3072056.pdf" download="3072056.pdf">MacKenzie et al. 2002 - Orignial occupancy paper</a>
 
 # Examples of Occupancy-based Papers
