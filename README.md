@@ -1,9 +1,10 @@
 This page contains resources associated with the occupancy modeling workshop offerd in advance of CECAM 2019 in Mérida, Yucatán.  These resources include materials that will be used during the workshop as well as links to extended resources.
 # Lecture Slides
-<a href="single_season_single_species_occu_lec_083019.pptx" download="single_season_single_species_occu_lec_083019.pptx">Single-species, single-season occupancy models</a>
+<a href="CECAM_occu_intro.pptx" download="single_season_single_species_occu_lec_083019.pptx">Introduction SLides</a>
 
 <a href="single_season_single_species_occu_lec_083019.pptx" download="single_season_single_species_occu_lec_083019.pptx">Single-species, single-season occupancy models</a>
 
+<a href="single_season_single_species_occu_lec_083019.pptx" download="single_season_single_species_occu_lec_083019.pptx">Single-species, single-season occupancy models</a>
 # Code
 
 # Additional Resources
