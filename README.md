@@ -4,6 +4,8 @@ This page contains resources associated with the occupancy modeling workshop off
 
 <a href="single_season_single_species_occu_lec_083019.pptx" download="single_season_single_species_occu_lec_083019.pptx">Single-species, single-season occupancy models</a>
 
+<a href="multiseasonoccupancymodel.pptx" download="multiseasonoccupancymodel.pptx">Multi-season extension to occupancy models</a>
+
 <a href="contact.pptx" download="contact.pptx">Contact slide</a>
 
 # Code
