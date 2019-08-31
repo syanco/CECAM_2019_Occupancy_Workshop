@@ -36,3 +36,4 @@ This page contains resources associated with the occupancy modeling workshop off
 <a href="usgs_occu_factsheet.pdf" download="usgs_occu_factsheet.pdf">USGS Factsheet</a>
 
 # Examples of Occupancy-based Papers
+<a href="Jones_et_al-2018-Diversity_and_Distributions.pdf" download="Jones_et_al-2018-Diversity_and_Distributions.pdf">Declining old- forest species as a legacy of large trees lost</a>
