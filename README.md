@@ -15,7 +15,7 @@ This page contains resources associated with the occupancy modeling workshop off
 
 [Single-season tutorial](SSOccupancyModel.md)
 
-Single season unicorn data:
+_Single season unicorn data:_
 
 * <a href="unicorns.csv" download="unicorns.csv">unicorn.csv</a>
 * <a href="unicorn_sitecovs.csv" download="unicorn_sitecovs.csv">unicorn_sitecovs.csv</a>
