@@ -11,15 +11,17 @@ This page contains resources associated with the occupancy modeling workshop off
 # Code
 [Helpful keyboard shortcuts for spanish language keyboard](spanish_keyboard_shortcuts_for_R.md)
 
+## Single-season, single-species models
 <a href="SSOccupancyModel.Rmd" download="SSOccupancyModel.Rmd">Single-season tutorial (source code)</a>
 
 [Single-season tutorial](SSOccupancyModel.md)
 
-__Single season unicorn data:__
+### Single season unicorn data
 * <a href="unicorns.csv" download="unicorns.csv">unicorn.csv</a>
 * <a href="unicorn_sitecovs.csv" download="unicorn_sitecovs.csv">unicorn_sitecovs.csv</a>
 * <a href="unicorn_obscovs.csv" download="unicorn_obscovs.csv">unicorn_obscovs.csv</a>
 
+## Multi-season, single-species models
 <a href="multi_season_codewalk.R" download="multi_season_codewalk.R">Multi-season tutorial (source code)</a>
 
 # Additional Resources
