@@ -38,7 +38,7 @@ This page contains resources associated with the occupancy modeling workshop off
 * *the* occupancy modeling book
 
 [Theresa Donovan's E-book of Exercises](http://www.uvm.edu/rsenr/vtcfwru/spreadsheets/?Page=occupancy/occupancy.htm)
-* has axercises that accompany the MacKenzie et al. book.
+* has exercises that accompany the MacKenzie et al. book.
 
 <a href="MacKenzie and Royle 2005.pdf" download="MacKenzie and Royle 2005.pdf">MacKenzie and Royal 2005 - Designing Occupancy Studies</a>
 
