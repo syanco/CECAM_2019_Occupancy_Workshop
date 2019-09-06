@@ -23,6 +23,7 @@ This page contains resources associated with the occupancy modeling workshop off
 
 ## Multi-season, single-species models
 <a href="multi_season_codewalk.R" download="multi_season_codewalk.R">Multi-season tutorial (source code)</a>
+<a href="Chapter-8---Basic-Presence-Absence-Situa_2018_Occupancy-Estimation-and-Model.pdf" download="Chapter-8---Basic-Presence-Absence-Situa_2018_Occupancy-Estimation-and-Model.pdf">Basic multi-season model from 2nd Ed of MacKenzie Book</a>
 
 # Additional Resources
 
